@@ -10,14 +10,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriiaosadcha-6b18542b5/?trk=public_profile-settings_edit-profile-content)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/osadcha.vikosa?igsh=MTMya3lqbGVnaTFtNw%3D%3D&utm_source=qr)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto: vikosa2007@gmail.com)
+
 
 </h1>
 
 
 
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNod2M5MWhoN3p5MXd1dTI5cGxyYjdydG04eHJ2b3pkdndwc2ozbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="600" height="300"/>
+  <img src="gif/viki.gif" width="600" height="300"/>
 
 
   </div>
