@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="https://99px.ru/sstorage/86/2020/10/image_862910200811089357246.gif" width="100"/>
+    <img src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="100"/>
 </div>
 <div id=body>
   <div align="center">
