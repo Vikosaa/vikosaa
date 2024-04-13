@@ -17,7 +17,7 @@
 
 
 
-  <img src="gif/viki.gif" width="600" height="300"/>
+  <img src="gif/viki.gif" width="200" />
 
 
   </div>
