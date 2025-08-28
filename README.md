@@ -25,10 +25,10 @@
   
   ### :anger: About Me :
 
-  I'm a beginner Python Developer :woman_technologist:
+  I'm a beginner Developer :woman_technologist:
   
   - My name is Viktoriia :two_hearts:
-  - I'm 17 years old :point_left:
+  - I'm 18 years old :point_left:
 
 ---
   
