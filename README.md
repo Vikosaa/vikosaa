@@ -5,7 +5,7 @@
 <div id=body>
   <div align="center">
     <h1>
-        hey everyone
+        Hello world!
         <img src="https://www.emojiall.com/images/240/telegram/1f389.gif" width="20px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriiaosadcha-6b18542b5/?trk=public_profile-settings_edit-profile-content)
