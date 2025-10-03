@@ -21,12 +21,10 @@
   </div>
   <div id="About me">
   
-  ### :anger: About Me :
-
-  I'm a beginner Developer :woman_technologist:
+  ### INFO:
   
-  - My name is Viktoriia :two_hearts:
-  - I'm 18 years old :point_left:
+Viktoriia Osadcha :two_hearts:
+18 :point_left:
 
 ---
   
@@ -36,10 +34,8 @@
   ### :hammer_and_wrench: Languages and Tools :
 
   <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="60" height="60"/>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="60" height="60"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Linux" **alt="Kotlin" width="60" height="60"/>
        
 
   ---
