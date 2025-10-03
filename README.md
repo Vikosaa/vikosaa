@@ -23,9 +23,7 @@
   
   ### INFO:
   
-Viktoriia Osadcha 
-Student
-18 
+Viktoriia Osadcha, student IT, 18 years old 
 
 ---
   
