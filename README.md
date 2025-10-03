@@ -17,8 +17,6 @@
 
 
 
-  <img src="gif/viki.gif" width="200" />
-
 
   </div>
   <div id="About me">
